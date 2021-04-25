@@ -8,6 +8,7 @@ public class HelloWorld {
         Double aDouble = new Double(2);
         Integer integer1 = new Integer(3);
 
+
     }
     public String getOneStr(){
         return "" ;

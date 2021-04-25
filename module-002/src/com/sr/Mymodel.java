@@ -11,6 +11,11 @@ public class Mymodel {
     public Mymodel() {
     }
 
+    public Mymodel(String idno, String username) {
+        this.idno = idno;
+        this.username = username;
+    }
+
     public String getIdno() {
         return idno;
     }
