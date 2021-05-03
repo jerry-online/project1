@@ -19,6 +19,7 @@ public class TestModule002 {
         strs.add("6");
         strs.add("4");
         strs.add("5");
+        strs.add("6");
         /*
         删除集合中偶数，list.remove()方法会造成集合大小动态变化，最后数据的值下标发生变化；用iterator迭代器来操作
          */
